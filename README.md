@@ -2,8 +2,8 @@
 
 RAG System with LangGraph, ChromaDB, and MCP Server
 A production-ready Retrieval-Augmented Generation (RAG) system that loads documents into a vector database and provides intelligent question-answering capabilities through both REST API and Model Context Protocol (MCP) interfaces.
-🌟 Features
 
+🌟 Features
 Document Processing: Automatically loads and chunks PDF, DOCX, TXT, and Markdown files
 Vector Search: ChromaDB-powered semantic search with persistent storage
 RAG Pipeline: LangGraph-based workflow for context-aware question answering
