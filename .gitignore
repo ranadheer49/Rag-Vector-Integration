@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/settings.json
+.python-version
+chat-ui/.DS_Store
+__pycache__/
+rag-system/.DS_Store
+rag-system/.env
+rag-system/__pycache__/
+rag-system/src/__pycache__/
+rag-system/chroma_db/
+chat-ui/.DS_Store
+rag-system/src/api/chroma_db/3d047508-302b-4e4f-8ceb-4c4d136eb061/data_level0.bin
+rag-system/src/api/chroma_db/3d047508-302b-4e4f-8ceb-4c4d136eb061/header.bin
+rag-system/src/api/chroma_db/3d047508-302b-4e4f-8ceb-4c4d136eb061/index_metadata.pickle
+rag-system/src/api/chroma_db/3d047508-302b-4e4f-8ceb-4c4d136eb061/length.bin
+rag-system/src/api/chroma_db/3d047508-302b-4e4f-8ceb-4c4d136eb061/link_lists.bin
+rag-system/src/api/chroma_db/chroma.sqlite3
